@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\bin\Debug\net8.0\GenericRestrit.exe
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\bin\Debug\net8.0\GenericRestrit.deps.json
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\bin\Debug\net8.0\GenericRestrit.runtimeconfig.json
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\bin\Debug\net8.0\GenericRestrit.dll
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\bin\Debug\net8.0\GenericRestrit.pdb
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.AssemblyInfo.cs
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.dll
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\refint\GenericRestrit.dll
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.pdb
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.genruntimeconfig.cache
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\ref\GenericRestrit.dll
