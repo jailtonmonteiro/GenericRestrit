@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericRestrit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c69855c890c0032b8c9b0554986e01d87b73d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericRestrit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericRestrit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

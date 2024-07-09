@@ -12,3 +12,4 @@ E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\refint\GenericRe
 E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.pdb
 E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.genruntimeconfig.cache
 E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\ref\GenericRestrit.dll
+E:\Cursos\CSharp\GenericRestrit\GenericRestrit\obj\Debug\net8.0\GenericRestrit.sourcelink.json
